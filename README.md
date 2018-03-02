@@ -1,0 +1,2 @@
+# SphnixTry
+Sphnix测试
