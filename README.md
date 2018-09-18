@@ -16,3 +16,8 @@ https://scratch.mit.edu/projects/238215867/#editor
 
 
 
+Tensorflow
+https://github.com/snowkylin/TensorFlow-cn
+https://github.com/yidao620c/python3-cookbook
+
+
