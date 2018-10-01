@@ -21,3 +21,6 @@ https://github.com/snowkylin/TensorFlow-cn
 https://github.com/yidao620c/python3-cookbook
 
 
+魔灯相关：
+https://post.smzdm.com/p/543964/
+https://post.smzdm.com/p/543267/
