@@ -34,3 +34,8 @@ https://go.fdos.me/
 
 LOG
 http://www.16xx8.com/photoshop/jiaocheng/2016/142656_3.html
+
+无版权音乐网址
+bensound.com 
+freemusicarchive.org 
+jamendo.com
